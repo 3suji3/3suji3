@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome:);suji+profile!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=3suji3\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![s62712's GitHub stats](https://github-readme-stats.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt&title_color=4fc3f7&icon_color=82b1ff)](https://github.com/3suji3)
 
 ---
 
