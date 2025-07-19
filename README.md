@@ -4,7 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome:);suji+profile!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-[![s62712's GitHub stats](https://github-readme-stats.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt&title_color=4fc3f7&icon_color=82b1ff)](https://github.com/3suji3)
+<!-- [![s62712's GitHub stats](https://github-readme-stats.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt&title_color=4fc3f7&icon_color=82b1ff)](https://github.com/3suji3) -->
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/48d9793e-911d-443a-8376-1b6d8d6b5120" alt="s62712 프로필 사진" width="200" style="border-radius: 15px; margin-left: 20px;" />
+    </td>
+    <td> 
+      <a href="https://github.com/3suji3">
+        <img src="https://github-readme-stats.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt&title_color=4fc3f7&icon_color=82b1ff" alt="s62712's GitHub stats">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
