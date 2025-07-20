@@ -63,12 +63,12 @@
 - 🕹️ 밤샘 코딩 중에도 스도쿠 한 판이면 리프레쉬 완료! 
 
 ---
-<a href="mailto:tnwl2799@gmail.com">
+<a href="mailto:tnwl2799@gmail.com" style="text-decoration:none;">
   <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="52" height="52" />
 </a>
-<a href="https://www.instagram.com/s.u.j.i.333"> 
+<a href="https://www.instagram.com/s.u.j.i.333" style="text-decoration:none;"> 
   <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="52" height="52" />
 </a>
-<a href="https://www.notion.so/7dd1d10bfcc748c2bf9eaec0b53c29f9?source=copy_link"> 
+<a href="https://www.notion.so/7dd1d10bfcc748c2bf9eaec0b53c29f9?source=copy_link" style="text-decoration:none;"> 
   <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="Notion" width="52" height="52" />
 </a>
