@@ -55,6 +55,18 @@
 - **질문 & 소통**: 궁금한 점이나 같이 이야기하고 싶은 게 있다면 언제든지 연락 주세요!
 - **이메일**: tnwl2799@gmail.com 
 
+<br> 
+
+<a href="mailto:tnwl2799@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="48" height="48" style="margin-right: 15px;" />
+</a>
+<a href="https://www.instagram.com/s.u.j.i.333"> 
+  <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="48" height="48" style="margin-right: 15px;" />
+</a>
+<a href="https://www.notion.so/7dd1d10bfcc748c2bf9eaec0b53c29f9?source=copy_link"> 
+  <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="Notion" width="48" height="48" />
+</a>
+
 ---
 
 ### 🤣 소소한 TMI
