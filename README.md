@@ -7,14 +7,14 @@
 <!-- [![s62712's GitHub stats](https://github-readme-stats.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt&title_color=4fc3f7&icon_color=82b1ff)](https://github.com/3suji3) -->
 <!-- | Language | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> | -->
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border: none; padding: 10px;">
       <img src="https://github.com/user-attachments/assets/48d9793e-911d-443a-8376-1b6d8d6b5120" alt="s62712 프로필 사진" width="200" style="border-radius: 15px; margin-left: 20px;" />
     </td>
-    <td> 
+    <td style="border: none; padding: 10px;"> 
       <a href="https://github.com/3suji3">
-        <img src="https://github-readme-stats.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt&title_color=4fc3f7&icon_color=82b1ff" alt="s62712's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt&title_color=4fc3f7&icon_color=82b1ff&count_private=true" alt="s62712's GitHub stats">
       </a>
     </td>
   </tr>
