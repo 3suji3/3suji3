@@ -57,9 +57,9 @@
 ---
 
 ### 🤣 소소한 TMI
-
-- 📚 도서부 활동을 통해 꾸준히 독서하며 다양한 분야의 지식을 쌓고 있습니다.
 - 🕹️ 밤샘 코딩 중에도 스도쿠 한 판이면 리프레쉬 완료!!
+- 📚 소설 책 읽는 거 좋아합니다 ㅎㅎ
+- 🛌 스트레스 받을 땐 잠이 효과직방!
 
 ---
 <div style="display: flex; justify-content: center; align-items: center;">
