@@ -63,6 +63,7 @@
 ### 🤣 소소한 TMI
 - 🕹️ 밤샘 코딩 중에도 스도쿠 한 판이면 리프레쉬 완료!!
 - 🛌 스트레스 받을 땐 잠이 효과직방!
+- ✍️ 매일매일 필사 중에 있습니다..
 
 ---
 <div style="display: flex; justify-content: center; align-items: center;">
