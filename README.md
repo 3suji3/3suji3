@@ -33,6 +33,14 @@
 | 카테고리 | 기술 |
 |---|---|
 | Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+| Dev Tools | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/GitKraken-17927D?style=for-the-badge&logo=gitkraken&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> |
+
+---
+
+### 📜 자격증
+
+- 정보처리기능사(2024.09)
+- 정보처리산업기사(2024.12)
 
 ---
 <div style="display: flex; justify-content: center; align-items: center;">
