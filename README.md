@@ -14,7 +14,8 @@
     </td>
     <td style="border: none; padding: 10px;"> 
       <a href="https://github.com/3suji3">
-        <img src="https://github-readme-stats.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt&title_color=4fc3f7&icon_color=82b1ff&count_private=true" alt="s62712's GitHub stats">
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt&title_color=4fc3f7&icon_color=82b1ff&count_private=true" alt="s62712's GitHub stats"> -->
+        <img src="https://readme-stats-git-main-sujis-projects-07c6a1ca.vercel.app/api?username=3suji3&show_icons=true&theme=cobalt" alt="s62712's GitHub stats" alt="suji GitHub stats" />
       </a>
     </td>
   </tr>
