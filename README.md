@@ -134,6 +134,8 @@ SSAFY 공지에는 하나의 게시글 안에 여러 날짜와 일정이 포함�
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
+<img width="2880" height="1530" alt="image" src="https://github.com/user-attachments/assets/43e3c2d3-5323-4f95-9209-c98656e15f0d" />
+
 <details>
 <summary><b>프로젝트 상세 내용</b></summary>
 
