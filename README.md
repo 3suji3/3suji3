@@ -134,8 +134,6 @@ SSAFY 공지에는 하나의 게시글 안에 여러 날짜와 일정이 포함�
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
-<img width="736" height="391" alt="image" src="https://github.com/user-attachments/assets/43e3c2d3-5323-4f95-9209-c98656e15f0d" />
-
 <details>
 <summary><b>프로젝트 상세 내용</b></summary>
 
@@ -221,6 +219,8 @@ AI 코딩 도구를 활용하더라도
 단순 기능 구현보다 사용자 경험과 게임 흐름을 설계하는 과정의 중요성을 배울 수 있었습니다.
 
 </details>
+
+<img width="736" height="391" alt="image" src="https://github.com/user-attachments/assets/43e3c2d3-5323-4f95-9209-c98656e15f0d" />
 
 ---
 
