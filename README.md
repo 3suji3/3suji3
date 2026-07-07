@@ -55,7 +55,7 @@
 </p>
 
 <details>
-<summary><b>📌 프로젝트 상세 내용</b></summary>
+<summary><b>프로젝트 상세 내용</b></summary>
 
 #### 담당 영역
 
