@@ -74,7 +74,7 @@
 * 기능 정책이 명확하지 않은 항목을 팀과 논의하고 결정 과정 기록
 * 네트워크 오류, 데이터 없음, 중복 처리, 권한 거부 등 예외 상황 검증
 
-📋 **[QA Documentation](https://github.com/3suji3/today-focus](https://elfin-roof-54e.notion.site/QA-3cabf451935e81779824fde9efdc1722?source=copy_link))**
+📋 **[QA Documentation](https://elfin-roof-54e.notion.site/QA-3cabf451935e81779824fde9efdc1722?source=copy_link)**
 요구사항 검토 · 테스트케이스 · 결함 기록 · 재검증 · QA 결정 이력
 
 ---
